@@ -1,3 +1,8 @@
 //Fadwa Hasanin and John Montgomery Present SupaaNoto!
+#include <iostream>
+using namespace std;
 
-//Hi Fadwa :wave:
+int main() {
+  cout << "Hi Fadwa :wave:";
+  return 0;
+}
